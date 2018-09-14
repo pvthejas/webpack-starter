@@ -1,1 +1,6 @@
-import '../styles/index.scss';
+
+let i = 1;
+console.log(i++);
+
+
+
